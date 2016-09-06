@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0a6a23d-4373-4188-88e1-14f2d9007964" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/articles/011-changing-color-scheme/new-color-scheme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/images/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/images/sky-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/socicon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/socicon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/socicon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/socicon.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/android-icon-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/apple-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/apple-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/apple-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/apple-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/apple-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/apple-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/apple-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/apple-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/apple-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/favicon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icon/ms-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/feed/genom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/feed/my-little-kitten.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/feed/new-york-location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/feed/vader-and-me-preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/my-app-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/profile/Alexander.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/profile/Andrey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/profile/Kostya.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/profile/Nasta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/profile/Nick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/profile/Vlad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/skin-thumbnails/01_default.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/skin-thumbnails/02_transparent.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/skin-thumbnails/03_blue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/skin-thumbnails/04_peachy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/skin-thumbnails/05_material.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/skin-thumbnails/06_transblue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/todo/check-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/typography/banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/typography/typo01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/typography/typo03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/typography/typo04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/typography/typo05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/typography/typo06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/typography/typo07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/blue-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/blur-bg-blurred.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/blur-bg-mobile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/blur-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/chernika.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/green-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/peachy-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/sky-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/no-photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/palette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/arrowDown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/arrowUp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/export.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/homeIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/homeIconWhite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/panDown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/panLeft.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/panRight.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/panUp.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/xIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/ammap/xIconH.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/leaflet/marker-icon-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/leaflet/marker-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/vendor/leaflet/marker-shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/transblue-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/willphdavies_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/willphdavies.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dockerfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/head-config.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/html-elements-plugin/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/modules/angular2-hmr-prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/webpack.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/webpack.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/webpack.prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/articles/001-getting-started/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/articles/002-installation-guidelines/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/articles/011-changing-color-scheme/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/articles/012-project-structure/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/articles/013-create-new-page/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/articles/014-switch-to-blur-theme/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/articles/015-sidebar/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/articles/016-spinner/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/css/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/images/why-design.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/images/why-practices.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/images/why-structure.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contents/index.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/plugins/paginator.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/templates/article.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/templates/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/templates/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.menu.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/global.state.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/charts/charts.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/charts/charts.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/charts/charts.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/charts/components/chartistJs/chartistJs.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/charts/components/chartistJs/chartistJs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/charts/components/chartistJs/chartistJs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/charts/components/chartistJs/chartistJs.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/charts/components/chartistJs/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/charts/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/components/components.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/components/components.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/components/components.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/components/components.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/components/components/treeView/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/components/components/treeView/treeView.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/components/components/treeView/treeView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/components/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/calendar/calendar.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/calendar/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/calendar/calendar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/calendar/calendar.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/calendar/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/feed/feed.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/feed/feed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/feed/feed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/feed/feed.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/feed/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/lineChart/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/lineChart/lineChart.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/lineChart/lineChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/lineChart/lineChart.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/lineChart/lineChart.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/pieChart/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/pieChart/pieChart.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/pieChart/pieChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/pieChart/pieChart.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/pieChart/pieChart.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/pieChart/pieChart.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/popularApp/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/popularApp/popularApp.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/popularApp/popularApp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/popularApp/popularApp.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/todo/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/todo/todo.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/todo/todo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/todo/todo.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/todo/todo.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/trafficChart/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/trafficChart/trafficChart.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/trafficChart/trafficChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/trafficChart/trafficChart.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/trafficChart/trafficChart.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/trafficChart/trafficChart.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/usersMap/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/usersMap/usersMap.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/usersMap/usersMap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/usersMap/usersMap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/usersMap/usersMap.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/editors/components/ckeditor/ckeditor.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/editors/components/ckeditor/ckeditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/editors/components/ckeditor/ckeditor.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/editors/components/ckeditor/ckeditor.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/editors/components/ckeditor/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/editors/editors.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/editors/editors.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/editors/editors.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/editors/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/checkboxInputs/checkboxInputs.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/checkboxInputs/checkboxInputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/checkboxInputs/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/groupInputs/groupInputs.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/groupInputs/groupInputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/groupInputs/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/ratinginputs/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/ratinginputs/ratinginputs.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/ratinginputs/ratinginputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/standardInputs/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/standardInputs/standardInputs.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/standardInputs/standardInputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/validationInputs/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/validationInputs/validationInputs.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/components/validationInputs/validationInputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/inputs.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/inputs/inputs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/basicForm/basicForm.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/basicForm/basicForm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/basicForm/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/blockForm/blockForm.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/blockForm/blockForm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/blockForm/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/horizontalForm/horizontalForm.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/horizontalForm/horizontalForm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/horizontalForm/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/inlineForm/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/inlineForm/inlineForm.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/inlineForm/inlineForm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/withoutLabelsForm/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/withoutLabelsForm/withoutLabelsForm.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/components/withoutLabelsForm/withoutLabelsForm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/layouts.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/components/layouts/layouts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/forms.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/forms.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/forms.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/forms/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/login/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/login/login.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/login/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/login/login.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/login/login.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/login/login.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/bubbleMaps/bubbleMaps.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/bubbleMaps/bubbleMaps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/bubbleMaps/bubbleMaps.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/bubbleMaps/bubbleMaps.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/bubbleMaps/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/googleMaps/googleMaps.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/googleMaps/googleMaps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/googleMaps/googleMaps.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/googleMaps/googleMaps.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/googleMaps/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/leafletMaps/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/leafletMaps/leafletMaps.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/leafletMaps/leafletMaps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/leafletMaps/leafletMaps.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/leafletMaps/leafletMaps.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/lineMaps/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/lineMaps/lineMaps.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/lineMaps/lineMaps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/lineMaps/lineMaps.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/components/lineMaps/lineMaps.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/maps.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/maps.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/maps/maps.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/pages.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/pages.menu.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/pages.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/pages.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/register/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/register/register.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/register/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/register/register.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/register/register.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/register/register.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/basicTables.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/basicTables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/basicTables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/basicTables.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/borderedTable/borderedTable.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/borderedTable/borderedTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/borderedTable/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/condensedTable/condensedTable.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/condensedTable/condensedTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/condensedTable/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/contextualTable/contextualTable.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/contextualTable/contextualTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/contextualTable/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/hoverTable/hoverTable.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/hoverTable/hoverTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/hoverTable/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/responsiveTable/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/responsiveTable/responsiveTable.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/responsiveTable/responsiveTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/stripedTable/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/stripedTable/stripedTable.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/components/stripedTable/stripedTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/basicTables/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/smartTables/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/smartTables/smartTables.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/smartTables/smartTables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/smartTables/smartTables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/components/smartTables/smartTables.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/tables.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/tables.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/tables/tables.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/buttons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/disabledButtons/disabledButtons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/disabledButtons/disabledButtons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/disabledButtons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/dropdownButtons/dropdownButtons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/dropdownButtons/dropdownButtons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/dropdownButtons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/flatButtons/flatButtons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/flatButtons/flatButtons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/flatButtons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/groupButtons/groupButtons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/groupButtons/groupButtons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/groupButtons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/iconButtons/iconButtons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/iconButtons/iconButtons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/iconButtons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/largeButtons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/largeButtons/largeButtons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/largeButtons/largeButtons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/raisedButtons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/raisedButtons/raisedButtons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/raisedButtons/raisedButtons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/sizedButtons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/sizedButtons/sizedButtons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/components/sizedButtons/sizedButtons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/buttons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/grid/grid.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/grid/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/grid/grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/grid/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/icons/icons.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/icons/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/icons/icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/icons/icons.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/icons/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/typography/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/typography/typography.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/components/typography/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/ui.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/ui.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/ui/ui.routing.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baAmChart/baAmChart.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baAmChart/baAmChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baAmChart/baAmChart.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baAmChart/baAmChartTheme.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baAmChart/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baBackTop/baBackTop.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baBackTop/baBackTop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baBackTop/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCard/baCard.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCard/baCard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCard/baCard.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCard/baCardBlur.directive.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCard/baCardBlurHelper.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCard/bgMetrics.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCard/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baChartistChart/baChartistChart.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baChartistChart/baChartistChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baChartistChart/baChartistChart.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baChartistChart/baChartistChart.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baChartistChart/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCheckbox/baCheckbox.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCheckbox/baCheckbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCheckbox/baCheckbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baCheckbox/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baContentTop/baContentTop.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baContentTop/baContentTop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baContentTop/baContentTop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baContentTop/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baFullCalendar/baFullCalendar.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baFullCalendar/baFullCalendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baFullCalendar/baFullCalendar.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baFullCalendar/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMenu/baMenu.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMenu/baMenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMenu/baMenu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMenu/baMenu.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMenu/components/baMenuItem/baMenuItem.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMenu/components/baMenuItem/baMenuItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMenu/components/baMenuItem/baMenuItem.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMenu/components/baMenuItem/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMenu/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMsgCenter/baMsgCenter.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMsgCenter/baMsgCenter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMsgCenter/baMsgCenter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMsgCenter/baMsgCenter.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMsgCenter/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMultiCheckbox/baMultiCheckbox.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMultiCheckbox/baMultiCheckbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baMultiCheckbox/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baPageTop/baPageTop.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baPageTop/baPageTop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baPageTop/baPageTop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baPageTop/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baPictureUploader/baPictureUploader.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baPictureUploader/baPictureUploader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baPictureUploader/baPictureUploader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baPictureUploader/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baSidebar/baSidebar.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baSidebar/baSidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baSidebar/baSidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/baSidebar/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/components/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/directives/baScrollPosition/baScrollPosition.directive.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/directives/baScrollPosition/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/directives/baSlimScroll/baSlimScroll.directive.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/directives/baSlimScroll/baSlimScroll.loader.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/directives/baSlimScroll/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/directives/baThemeRun/baThemeRun.directive.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/directives/baThemeRun/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/directives/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/initial.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/nga.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/pipes/baAppPicture/baAppPicture.pipe.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/pipes/baAppPicture/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/pipes/baKameleonPicture/baKameleonPicture.pipe.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/pipes/baKameleonPicture/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/pipes/baProfilePicture/baProfilePicture.pipe.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/pipes/baProfilePicture/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/pipes/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_auth.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_ionicons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_preloader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_socicon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_table.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_treeView.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/bootstrap-overrides/_card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/bootstrap-overrides/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/bootstrap-overrides/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/bootstrap-overrides/overrides.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/conf/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/conf/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/conf/colorSchemes/_blur.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/conf/colorSchemes/_mint.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/conf/colorSchemes/_ng2.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/sass/conf/conf.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/services/baImageLoader/baImageLoader.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/services/baImageLoader/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/services/baThemePreloader/baThemePreloader.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/services/baThemePreloader/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/services/baThemeSpinner/baThemeSpinner.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/services/baThemeSpinner/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/services/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/theme.config.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/theme.configProvider.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/theme.constants.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/validators/email.validator.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/validators/equalPasswords.validator.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/theme/validators/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fonts/socicon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/browsers/chrome.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/browsers/firefox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/browsers/ie.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/browsers/opera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/app/browsers/safari.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/arrow-green-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/arrow-red-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/comments.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/face.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/money.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/person.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/refresh.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/shopping-cart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/feed/feed-image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/feed/feed-location.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/feed/feed-video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Alien.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Analytics.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Apartment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Batman.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Beach.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Bell.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Bonsai.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Boss-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Boss-5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Burglar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Bus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Candy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Checklist.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Cheese.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Chessboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Clipboard-Plan.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Desert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Dna.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Euro-Coin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Food-Dome.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Hacker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Images.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Key.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Laptop-Signal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Locked-Cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Love-Letter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Magician.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Makeup.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Medal-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Microscope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Mind-Map-Paper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Money-Increase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Music-Equalizer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Ninja.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Online-Shopping.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Pantone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Party-Poppers.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Phone-Booth.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Programming.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Santa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Shop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Street-View.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Student-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Surfer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Surgeon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Tower.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/theme/icon/kameleon/Vector.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/service-worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/custom-typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.browser.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polyfills.browser.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendor.browser.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/typedoc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+    </list>
+    <ignored path="willphdavies.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="willphdavies" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="webpack.common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/webpack.common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2130">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="willphdavies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="willphdavies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="willphdavies" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="willphdavies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="willphdavies" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="prop_add_unversioned_files" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2130">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
