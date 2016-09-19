@@ -140,7 +140,7 @@
     "version": "npm run build",
     "postversion": "git push && git push --tags",
     "preinstall": "npm install -g http-server",
-    "postinstall": "ng build && mv dist/* ."
+    "postinstall": ""
   },
   "repository": {
     "type": "git",
