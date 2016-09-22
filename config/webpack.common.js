@@ -55,11 +55,12 @@ module.exports = function (options) {
      *
      * See: http://webpack.github.io/docs/configuration.html#entry
      */
+    //'polyfills': './src/polyfills.browser.ts',
+    //'vendor': './src/vendor.browser.ts',
     entry: {
 
-      'polyfills': './src/polyfills.browser.ts',
-      'vendor': './src/vendor.browser.ts',
-      'main': './src/main.browser.ts'
+
+      'main': ['./src/polyfills.browser.ts','./src/vendor.browser.ts','./src/main.browser.ts']
 
     },
 
