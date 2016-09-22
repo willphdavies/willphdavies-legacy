@@ -144,7 +144,8 @@
     "start:hmr": "npm run server:dev:hmr",
     "version": "npm run build",
     "postversion": "git push && git push --tags",
-    "electron": "electron ./src/electron/main.js"
+    "electron": "electron ./src/electron/main.js",
+    "postinstall": "webpack --config ./webpack-prod.config.js --progress --colors"
   },
   "repository": {
     "type": "git",
