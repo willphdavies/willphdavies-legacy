@@ -145,7 +145,7 @@
     "version": "npm run build",
     "postversion": "git push && git push --tags",
     "electron": "electron ./src/electron/main.js",
-    "postinstall": "npm install -g webpack && webpack --config ./webpack-prod.config.js --progress --colors"
+    "postinstall": "npm install http-server -g && npm install -g webpack && webpack --config ./webpack-prod.config.js --progress --colors"
   },
   "repository": {
     "type": "git",
