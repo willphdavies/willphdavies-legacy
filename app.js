@@ -3,7 +3,7 @@ var port = process.env.PORT || 3000;
 var app = express();
 process.env.PWD = process.cwd();
 
-app.use(express.static(process.env.PWD + '/dist));
+app.use(express.static(process.env.PWD + '/dist'));
 
 app.get('/', function(request, response) {
     response.sendfile(process.env.PWD + '/dist/index.html');
