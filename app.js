@@ -1,14 +1,13 @@
-var express = require('express');
-var port = process.env.PORT || 3000;
-var app = express();
-process.env.PWD = process.cwd();
+var express = require('express')
+var app = express()
 
-app.use(express.static('dist'));
+app.set('port', (process.env.PORT || 5000))
+app.use(express.static(__dirname + '/public'))
 
 app.get('/', function(request, response) {
-    response.sendfile('dist/index.html');
-});
+    response.send('Hello World!')
+})
 
-app.listen(port, function () {
-    console.log('Example app listening on port 3000!');
-});
+app.listen(app.get('port'), function() {
+    console.log("Node app is running at localhost:" + app.get('port'))
+})
