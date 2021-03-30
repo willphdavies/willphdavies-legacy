@@ -1,0 +1,15 @@
+.page-home {
+	height: 100%;
+	justify-content: space-evenly;
+	.page-home__link {
+		margin: 15px auto;
+		width: 400px;
+		max-width: 100%;
+		display: inline-block;
+		.link__img {
+			min-height: 300px;
+			width: 400px;
+			background-size: cover;
+		}
+	}
+}

@@ -1,0 +1,6 @@
+export { Home } from "./Home/Home"
+export { Projects } from "./Projects/Projects"
+export { Qualifications } from "./Qualifications/Qualifications"
+export { Interests } from "./Interests/Interests"
+export { Experience } from "./Experience/Experience"
+export { Philosophy } from "./Philosophy/Philosophy"

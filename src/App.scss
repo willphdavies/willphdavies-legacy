@@ -1,0 +1,15 @@
+.App {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+
+  .App__container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    padding: 0 0 15px 0;
+  }
+}
